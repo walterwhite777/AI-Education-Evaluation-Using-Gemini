@@ -69,22 +69,6 @@ As a **data enthusiast**, I believe my role is to help evaluate such models ethi
 
 ---
 
-AI-Education-Evaluation-Using-Gemini/
-│
-├── AI_Edu_Project_Code.ipynb                # Main Colab Notebook (Tasks 1–3)
-├── physics_questions_with_gemini.xlsx       # Gemini responses and evaluation (Task 1)
-├── physics_questions_with_complexity.xlsx   # Complexity classification results (Task 2)
-├── physics_questions_final_with_hints.xlsx  # Refined prompt + hint evaluation (Task 3)
-│
-├── report.pdf                               # Final 5-page report combining all tasks
-├── task4_essay.docx                         # Essay on “AI in Education” (Task 4)
-│
-├── README.md                                # Project overview and documentation
-└── screenshots/                             # Output images from Colab runs
-├── part1_output.png
-├── part2_accuracy.png
-├── part3_hints.png
-
 ## 📊 Key Takeaways  
 - Gemini struggles with conceptual reasoning in physics.  
 - Adding hints increases explanation quality, not accuracy.  
